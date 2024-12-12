@@ -10,14 +10,13 @@
 
 `$ > pip install streamlit`
 
-Test that the installation worked
-
-`$ > streamlit hello`
+`$ > streamlit hello` //Test that the installation worked
 
 `$ > pip install joblib`
 
 `$ > pip install scikit-learn`
 
 Running program
+
 `$ > streamlit run app.py`
 
